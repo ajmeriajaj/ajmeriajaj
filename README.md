@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my Git Repository for Java 
+This is my Git Repository for Java Codes
 <br>
 Author - Ajaj D. Ajmeri
 
